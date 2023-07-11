@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704654463819",
+    "project_id": "nfrontliner-c9d2d",
+    "storage_bucket": "nfrontliner-c9d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704654463819:android:56800689b871ebed428ece",
+        "android_client_info": {
+          "package_name": "com.example.nfrontliner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704654463819-6eco3eolr6mtvqg4s3tt8asbfnuml89g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN6EQ35aRjvhwWkU7EoNLyBsFuHolYS8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704654463819-6eco3eolr6mtvqg4s3tt8asbfnuml89g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,7 @@
 /**
-        * This is single click live saving app which will help the user to send the message to near ones also to the database
+        * This is an single click live saving app which will help the user to send the message to near ones also to the database
         *
-        *
+        *It sends the user's longitude and latidude along with the message
         * This project was selected for Smart India hackathon 2022
         *
         *
